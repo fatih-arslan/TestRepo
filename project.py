@@ -6,3 +6,6 @@ def cikar(x,y):
 
 def carp(x,y):
     return x * y
+
+def bol(x,y):
+    return x/y
